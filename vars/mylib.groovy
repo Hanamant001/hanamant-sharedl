@@ -1,3 +1,3 @@
 def call(){
-  echo "deploying artifact"
+  sh 'echo deploying artifact'
 }
